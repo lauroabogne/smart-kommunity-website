@@ -875,6 +875,9 @@ body {
     .desktop-nav {
         display: none;
     }
+    .nav-actions .btn {
+        display: none;
+    }
     .menu-toggle {
         display: block;
     }
